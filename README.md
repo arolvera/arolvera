@@ -9,14 +9,11 @@
 
 ### Connect with me
 
-[![website_light](./img/globe-light.svg)](https://theanfernee.com#gh-light-mode-only)
-[![website_dark](./img/globe-dark.svg)](https://theanfernee.com#gh-dark-mode-only)
+[![website_light](./img/globe-light.svg)](https://theanfernee.com#gh-light-mode-only)[![website_dark](./img/globe-dark.svg)](https://theanfernee.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 [![linkedin_light](./img/linkedin-light.svg)](https://www.linkedin.com/in/anthony-olvera#gh-light-mode-only)
 [![linkedin_dark](./img/linkedin-dark.svg)](https://linkedin.com/in/anthony-olvera#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 [![mail_light](./img/mail-light.svg)](mailto:olvera.anthony12@gmail.com#gh-light-mode-only)
 [![mail_dark](./img/mail-dark.svg)](mailto:olvera.anthony12@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -56,7 +53,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="arolvera GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arolvera&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
