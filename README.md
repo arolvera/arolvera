@@ -9,7 +9,7 @@
 
 ### Connect with me
 
-[![website_light](./img/globe-light.svg)](https://theanfernee.com#gh-light-mode-only)[![website_dark](./img/globe-dark.svg)](https://theanfernee.com#gh-dark-mode-only)
+[![website_light](./img/globe-light.svg)](http://www.anthonyolvera.net#gh-light-mode-only)[![website_dark](./img/globe-dark.svg)](http://www.anthonyolvera.net#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![linkedin_light](./img/linkedin-light.svg)](https://www.linkedin.com/in/anthony-olvera#gh-light-mode-only)
 [![linkedin_dark](./img/linkedin-dark.svg)](https://linkedin.com/in/anthony-olvera#gh-dark-mode-only)
