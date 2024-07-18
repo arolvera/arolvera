@@ -21,7 +21,7 @@
 
 ### Languages and tools
 
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="26px" src=" style="padding-right:10px;" />
 
 <img align="left" alt="C Plus Plus" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" style="padding-right:10px;" />
 
@@ -29,7 +29,7 @@
 
 <img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="ROS" width="26px" src="https://1l3kf73dl0pg27adzc3ob3r9-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/Introducing-the-New-ROS-Integrated-Segway-RMP-Line1-731x265.jpg" style="padding-right:10px;" />
+<img align="left" alt="ROS" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ROS-Dark.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Open CV" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" style="padding-right:10px;" />
 
